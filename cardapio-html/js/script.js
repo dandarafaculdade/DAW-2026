@@ -1,4 +1,5 @@
 const categoryLinks = document.querySelectorAll('nav a');
+const selectedCategory = document.querySelector('#selected-category');
 
 console.log(categoryLinks);
 console.log('Category Links');
